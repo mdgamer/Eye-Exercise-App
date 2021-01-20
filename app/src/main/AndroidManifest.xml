@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.roshni_beta">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".End"></activity>
+        <activity android:name=".Alphabets"
+            android:screenOrientation="landscape"
+            />
+        <activity android:name=".eye_acuity" />
+        <activity android:name=".activity_1_test_1_level_12" />
+        <activity android:name=".activity_1_test_1_level_11" />
+        <activity android:name=".activity_1_test_1_level_10" />
+        <activity android:name=".activity_1_test_1_level_9" />
+        <activity android:name=".activity_1_test_1_level_8" />
+        <activity android:name=".activity_1_test_1_level_7" />
+        <activity android:name=".activity_1_test_1_level_6" />
+        <activity android:name=".activity_1_test_1_level_5" />
+        <activity android:name=".activity_1_test_1_level_4" />
+        <activity android:name=".activity_1_test_1_level_3" />
+        <activity android:name=".activity_1_test_1_level_2" />
+        <activity android:name=".activity_1_test_1_level_select" />
+        <activity
+            android:name=".activity_1_test_3"
+            android:screenOrientation="landscape" />
+        <activity android:name=".activity_1_test_2" />
+        <activity android:name=".activity_1_test_1" />
+        <activity android:name=".Activity_1" />
+        <activity
+            android:name=".Home"
+            android:label="@string/title_activity_home" />
+        <activity android:name=".Signup" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

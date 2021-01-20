@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity_1"
+    android:background="@color/colorPrimary"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tests"
+        android:layout_marginTop="28dp"
+        android:textSize="30dp"
+        android:textColor="#FFF"
+        android:layout_gravity="center"
+        ></TextView>
+    <Button
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="30dp"
+        android:text="Eye Tracking"
+        android:layout_gravity="center"
+        android:id="@+id/test_1"
+        android:background="@android:color/holo_green_light"
+        android:textColor="@android:color/holo_red_dark"
+        ></Button>
+    <Button
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:text="Alphabets"
+        android:layout_gravity="center"
+        android:id="@+id/test_2"
+        android:layout_below="@id/test_1"
+        ></Button>
+    <Button
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:text="Test 3"
+        android:layout_gravity="center"
+        android:id="@+id/test_3"
+        android:layout_below="@id/test_2"
+        ></Button>
+    <Button
+        android:layout_width="400dp"
+        android:layout_height="100dp"
+        android:text="Test 4"
+        android:layout_gravity="center"
+        android:id="@+id/test_4"
+        android:layout_below="@id/test_3"
+        ></Button>
+
+</LinearLayout>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity_1_test_2"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt1"
+            tools:ignore="InvalidId"></TextView>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt2"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt3"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:id="@+id/txt4"
+            android:layout_width="115dp"
+            android:layout_height="100dp"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            tools:ignore="InvalidId"></TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt5"
+            tools:ignore="InvalidId"></TextView>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt6"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt7"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:id="@+id/txt8"
+            android:layout_width="115dp"
+            android:layout_height="100dp"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            tools:ignore="InvalidId"></TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt9"
+            tools:ignore="InvalidId"></TextView>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt10"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt11"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:id="@+id/txt12"
+            android:layout_width="115dp"
+            android:layout_height="100dp"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            tools:ignore="InvalidId"></TextView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt13"
+            tools:ignore="InvalidId"></TextView>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt14"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt15"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:id="@+id/txt16"
+            android:layout_width="115dp"
+            android:layout_height="100dp"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            tools:ignore="InvalidId"></TextView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="110dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt17"
+            tools:ignore="InvalidId"></TextView>
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="110dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt18"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:layout_width="100dp"
+            android:layout_height="110dp"
+            android:textSize="25sp"
+            android:textAlignment="center"
+            android:id="@+id/txt19"
+            tools:ignore="InvalidId"></TextView>
+
+        <TextView
+            android:id="@+id/txt20"
+            android:layout_width="115dp"
+            android:layout_height="110dp"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            tools:ignore="InvalidId"></TextView>
+    </LinearLayout>
+
+</LinearLayout>
